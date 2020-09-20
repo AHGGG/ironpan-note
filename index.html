@@ -14,7 +14,7 @@
 
       loadSidebar: true,
       
-      repo: 'https://github.com/AHGGG/note-test/',
+      repo: 'https://github.com/AHGGG/ironpan-note/',
 
       coverpage: true,
 
@@ -25,6 +25,15 @@
         nextText: 'NEXT',
         crossChapter: true,
         crossChapterText: false,
+      },
+
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果',
+        // 搜索标题的最大程级, 1 - 6
+        depth: 3,
       },
 
       plugins: [
@@ -51,6 +60,10 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+  <script src="https://cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js">
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   </script>
 </body>
 </html>
