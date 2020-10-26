@@ -3,6 +3,9 @@
   - [xxx1](docs/post/计算机/2.md)
   - [xxx2](docs/post/计算机/3.md)
   - [xxx3](docs/post/计算机/4.md)
+  - [HTML笔记](docs/post/计算机/HTML.md)
+  - [JS笔记](docs/post/计算机/JS.md)
+  - [CSS笔记](docs/post/计算机/CSS.md)
 
 - 单片机
   - [PCB布线](docs/post/单片机/PCB布线.md)
