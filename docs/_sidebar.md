@@ -1,31 +1,28 @@
 
 - 计算机
-  - [xxx1](docs/post/计算机/2.md)
-  - [xxx2](docs/post/计算机/3.md)
-  - [xxx3](docs/post/计算机/4.md)
-  - [HTML笔记](docs/post/计算机/HTML.md)
-  - [JS笔记](docs/post/计算机/JS.md)
-  - [CSS笔记](docs/post/计算机/CSS.md)
+  - [xxx1](post/计算机/2.md)
+  - [xxx2](post/计算机/3.md)
+  - [xxx3](post/计算机/4.md)
 
 - 单片机
-  - [PCB布线](docs/post/单片机/PCB布线.md)
+  - [PCB布线](post/单片机/PCB布线.md)
 
 - 英语
-  - [xxx](docs/post/英语/口语.md)
+  - [xxx](post/英语/口语.md)
 
 - 工具
-  - [markdown](docs/post/工具/markdown语法.md)
-  - [vim](docs/post/工具/vim.md)
+  - [markdown](post/工具/markdown语法.md)
+  - [vim](post/工具/vim.md)
 
 - 摘录
-  - [xxx](docs/post/摘录/5.md)
+  - [xxx](post/摘录/5.md)
 
 - 音乐
-  - [bbox谱子1](docs/post/音乐/bbox谱子1.md)
+  - [bbox谱子1](post/音乐/bbox谱子1.md)
 
 - 游戏
-  - [xxx](docs/post/游戏/youutbers.md)
+  - [xxx](post/游戏/youutbers.md)
 
 - 考研
-  - [xxx](docs/post/考研/3.md) 
+  - [xxx](post/考研/3.md) 
 
